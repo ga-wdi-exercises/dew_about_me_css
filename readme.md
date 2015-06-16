@@ -3,3 +3,7 @@
 Without touching `index.html`, update `styles.css` so that the output of `index.html` matches this image:
 
 ![mock up](mockup.png)
+
+## The original
+
+http://danielwaldron.com/
